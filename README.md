@@ -1,10 +1,10 @@
 # Gesstion-de-Centre-ducatif
 Application de Gestion de Centre Éducatif
 #Desktop APP (Microsoft Access)
-
+<center>
 By At.Sr </br>
 E-mail : athmane.work@gmail.com
-<center>
+
 ![Capture 01](https://github.com/AtSr-47/Gesstion-de-Centre-ducatif/blob/master/ScreenShots/Screenshot%202022-10-01%20033958.png)
 		 
 ---------------------------------------
